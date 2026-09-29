@@ -104,3 +104,10 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
     <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
 </div>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasAzpeytia&show_icons=true&bg_color=0F172A&title_color=06B6D4&text_color=94A3B8&icon_color=F97316&hide_border=true&include_all_commits=true" height="192px" alt="Sebastian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasAzpeytia&layout=compact&bg_color=0F172A&title_color=06B6D4&text_color=94A3B8&hide_border=true" height="192px" alt="Sebastian's Top Languages" />
+</div>
