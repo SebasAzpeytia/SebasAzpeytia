@@ -34,3 +34,49 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+### Space NL: Active Rocket Stabilization System
+<img src="https://i.imgur.com/sNpkRQd.jpeg" alt="Space NL Project" width="600px" style="border-radius: 8px;">
+
+*Developed for the "Sultana del Norte" sounding rocket.*
+* **What it is:** An active aerodynamic stabilization system to counteract weathercocking during flight.
+* **My contribution:** Co-developed the system utilizing 4 canard fins, PID control algorithms, telemetry, and Kalman filtering. 
+* **Achievements:** 🏆 1st place at Expociencias | 🥉 3rd place at FEMECI.
+* **Tech:** `C/C++` `Control Systems` `Hardware Integration`
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+
+---
+
+### Exoplanet Classifier - NASA Space Apps Challenge 2025
+<!-- <img src="URL_DE_TU_IMAGEN.png" alt="NASA Space Apps Project" width="600px" style="border-radius: 8px;"> -->
+
+* **What it is:** A machine learning tool designed to analyze astronomical data and predict exoplanet candidates.
+* **My contribution:** Built the core classification model and integrated it into a fully functional graphical user interface for accessibility.
+* **Tech:** `Python` `Machine Learning` `Scikit-learn`
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+
+---
+
+### Autonomous Sales Chatbot - HeyBanco Datathon 2026
+<img src="https://i.imgur.com/MbdlF7b.jpeg" alt="HeyBanco Datathon Project" width="600px" style="border-radius: 8px;">
+
+* **What it is:** A smart customer service chatbot focused on dynamic sales personalization.
+* **My contribution:** Developed the logic and conversation flows during the hackathon at Tecnológico de Monterrey to optimize user experience and automate client interactions.
+* **Tech:** `Python` `AI` `Data Processing`
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+
+---
+
+### Quizbot - STEM Education Initiative
+<img src="https://i.imgur.com/ypAV1U0.jpeg" alt="Quizbot Project" width="600px" style="border-radius: 8px;">
+
+* **What it is:** An educational robotics and programming kit designed for primary and middle school students.
+* **My contribution:** Co-founded and directed the initiative (under robotics team Tigres 6652), leading the design of the kits and conducting hands-on STEM outreach workshops.
+* **Tech:** `Leadership` `Hardware` `Education` `C/C++`
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
