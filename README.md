@@ -46,7 +46,7 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * **Achievements:** 🏆 1st place at Expociencias | 🥉 3rd place at FEMECI.
 * **Tech:** `C/C++` `Control Systems` `Hardware Integration`
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/Videojuego_Expociencias_SpaceNL)
 
 ---
 
@@ -57,7 +57,7 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * **My contribution:** Built the core classification model and integrated it into a fully functional graphical user interface for accessibility.
 * **Tech:** `Python` `Machine Learning` `Scikit-learn`
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/CelestiAI)
 
 ---
 
@@ -68,7 +68,7 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * **My contribution:** Developed the logic and conversation flows during the hackathon at Tecnológico de Monterrey to optimize user experience and automate client interactions.
 * **Tech:** `Python` `AI` `Data Processing`
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/HeyBanco_Datathon)
 
 ---
 
@@ -79,4 +79,3 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * **My contribution:** Co-founded and directed the initiative (under robotics team Tigres 6652), leading the design of the kits and conducting hands-on STEM outreach workshops.
 * **Tech:** `Leadership` `Hardware` `Education` `C/C++`
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](URL_DEL_REPOSITORIO)
