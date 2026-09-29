@@ -1,5 +1,5 @@
 ## Hi there, I'm Sebastián Azpeytia[
-<img src='https://imgur.com/oYkVAkb'/>
+<img src='https://i.imgur.com/oYkVAkb.png'/>
 <!--
 **SebasAzpeytia/SebasAzpeytia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
