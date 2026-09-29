@@ -38,44 +38,69 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 ## 🚀 Featured Projects
 
 ### Space NL: Active Rocket Stabilization System
-<img src="https://i.imgur.com/sNpkRQd.jpeg" alt="Space NL Project" width="600px" style="border-radius: 8px;">
+<img src="https://i.imgur.com/02y6oZn.jpeg" alt="Space NL Project" width="600" style="border-radius: 8px;">
 
 *Developed for the "Sultana del Norte" sounding rocket.*
 * **What it is:** An active aerodynamic stabilization system to counteract weathercocking during flight.
 * **My contribution:** Co-developed the system utilizing 4 canard fins, PID control algorithms, telemetry, and Kalman filtering. 
 * **Achievements:** 🏆 1st place at Expociencias | 🥉 3rd place at FEMECI.
-* **Tech:** `C/C++` `Control Systems` `Hardware Integration`
+* **Tech:**  
+  ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Control Systems](https://img.shields.io/badge/Control_Systems-0F172A?style=for-the-badge) ![Hardware Integration](https://img.shields.io/badge/Hardware_Integration-F97316?style=for-the-badge)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/Videojuego_Expociencias_SpaceNL)
+<br>
+<div align="center">
+  <a href="https://github.com/SebasAzpeytia/Videojuego_Expociencias_SpaceNL">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</div>
 
 ---
 
 ### Exoplanet Classifier - NASA Space Apps Challenge 2025
-<!-- <img src="URL_DE_TU_IMAGEN.png" alt="NASA Space Apps Project" width="600px" style="border-radius: 8px;"> -->
+<!-- <img src="URL_DE_TU_IMAGEN.png" alt="NASA Space Apps Project" width="600" style="border-radius: 8px;"> -->
 
 * **What it is:** A machine learning tool designed to analyze astronomical data and predict exoplanet candidates.
 * **My contribution:** Built the core classification model and integrated it into a fully functional graphical user interface for accessibility.
-* **Tech:** `Python` `Machine Learning` `Scikit-learn`
+* **Tech:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/CelestiAI)
+<br>
+<div align="center">
+  <a href="https://github.com/SebasAzpeytia/CelestiAI">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</div>
 
 ---
 
 ### Autonomous Sales Chatbot - HeyBanco Datathon 2026
-<img src="https://i.imgur.com/MbdlF7b.jpeg" alt="HeyBanco Datathon Project" width="600px" style="border-radius: 8px;">
+<img src="https://i.imgur.com/xMSJYLd.jpeg" alt="HeyBanco Datathon Project" width="600" style="border-radius: 8px;">
 
 * **What it is:** A smart customer service chatbot focused on dynamic sales personalization.
 * **My contribution:** Developed the logic and conversation flows during the hackathon at Tecnológico de Monterrey to optimize user experience and automate client interactions.
-* **Tech:** `Python` `AI` `Data Processing`
+* **Tech:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/AI-06B6D4?style=for-the-badge) ![Data Processing](https://img.shields.io/badge/Data_Processing-0F172A?style=for-the-badge)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/SebasAzpeytia/HeyBanco_Datathon)
+<br>
+<div align="center">
+  <a href="https://github.com/SebasAzpeytia/HeyBanco_Datathon">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</div>
 
 ---
 
 ### Quizbot - STEM Education Initiative
-<img src="https://i.imgur.com/ypAV1U0.jpeg" alt="Quizbot Project" width="600px" style="border-radius: 8px;">
+<img src="https://i.imgur.com/2SmnfxL.jpeg" alt="Quizbot Project" width="600" style="border-radius: 8px;">
 
 * **What it is:** An educational robotics and programming kit designed for primary and middle school students.
 * **My contribution:** Co-founded and directed the initiative (under robotics team Tigres 6652), leading the design of the kits and conducting hands-on STEM outreach workshops.
-* **Tech:** `Leadership` `Hardware` `Education` `C/C++`
+* **Tech:**  
+  ![Leadership](https://img.shields.io/badge/Leadership-0F172A?style=for-the-badge) ![Hardware](https://img.shields.io/badge/Hardware-F97316?style=for-the-badge) ![Education](https://img.shields.io/badge/Education-06B6D4?style=for-the-badge) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<br>
+<div align="center">
+  <a href="URL_DEL_REPOSITORIO">
+    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</div>
