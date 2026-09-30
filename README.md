@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/k6yeaPL.gif"/>
+<img src="https://i.imgur.com/78MH8LU.gif"/>
 <img src='https://i.imgur.com/oYkVAkb.png'/>
 
 ## 👨‍💻 About Me
@@ -10,31 +10,42 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * 🌱 **Currently learning:** Machine Learning, Deep Learning and Movil Apps Developing
 * 🎯 **Current goal:** Securing an international academic exchange program to expand my vision and collaborate globally.
 * 💡 **Fun fact:** I am deeply passionate about STEM education—I co-founded *Quizbot* to teach robotics and programming to kids.
+<br>
 
 ## 🛠️ Tech Stack & Tools
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
 **Web**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 
 **Backend & Databases**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 **Environment & Version Control**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+
+<br>
+
+## 📊GitHub Streak :
+<div align="center" width="100">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SebasAzpeytia&hide_border=true&date_format=%5BY%20%5DM%20j&background=0F172A&ring=F97316&fire=F97316&currStreakNum=06B6D4&sideNums=06B6D4&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8" alt="SebasAzpeytia GitHub Streak">
+  </br>
+</div>
+
+<br>
 
 ## 🚀 Featured Projects
 
@@ -98,16 +109,3 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
 * **My contribution:** Co-founded and directed the initiative (under robotics team Tigres 6652), leading the design of the kits and conducting hands-on STEM outreach workshops.
 * **Tech:**  
   ![Leadership](https://img.shields.io/badge/Leadership-0F172A?style=for-the-badge) ![Hardware](https://img.shields.io/badge/Hardware-F97316?style=for-the-badge) ![Education](https://img.shields.io/badge/Education-06B6D4?style=for-the-badge) ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<br>
-<div align="center">
-  <a href="URL_DEL_REPOSITORIO">
-    <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
-  </a>
-</div>
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
