@@ -1,4 +1,5 @@
-<center><h1>Hi there, I'm Sebastián Azpeytia</h1></center>
+
+<img src="https://i.imgur.com/k6yeaPL.gif"/>
 <img src='https://i.imgur.com/oYkVAkb.png'/>
 
 ## 👨‍💻 About Me
@@ -105,10 +106,8 @@ I am an **Artificial Intelligence Engineering Student** at UANL (FIME) passionat
   </a>
 </div>
 
-## 📊 GitHub Metrics
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebasAzpeytia&show_icons=true&bg_color=0F172A&title_color=06B6D4&text_color=94A3B8&icon_color=F97316&hide_border=true&include_all_commits=true&v=1" alt="Sebastian's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasAzpeytia&layout=compact&bg_color=0F172A&title_color=06B6D4&text_color=94A3B8&hide_border=true&v=1" alt="Sebastian's Top Languages" />
-</div>
